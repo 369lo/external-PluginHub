@@ -10,4 +10,15 @@
     "description": "",
     "provider": "arnah"
   }
+  {
+    "internalName": "autologhop-0.0.2",
+    "hash": "260681486EAD56974F9FE8B2203BE5563A302438AF89E5702744717A8C2B7360707EE288F4FC849A1DFE4656C722B76CDF8DD5B135A466E36879D3F79E5CD638",
+    "size": 2221,
+    "plugins": [
+      "autologhop"
+    ],
+    "displayName": "HiJack Customize PluginHub",
+    "description": "",
+    "provider": "arnah"
+  }
 ]
